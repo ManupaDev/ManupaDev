@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science at University Of Westminster UK.
 - 💼 &nbsp; Working as a freelance web developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Testing & Working in an industrial team.
+- 💫 &nbsp; Researching how to seamlessly connect users, designers, front-end developers & backend developers.
 - ✍️ &nbsp; Pursuing Music and Youtube as hobbies/side hustles.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -27,7 +28,9 @@
 
 &nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-&nbsp; ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)    
+&nbsp; ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
+
+&nbsp; ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <br/>
 <h3> ⚙️ &nbsp;Back End</h3>
@@ -87,7 +90,7 @@
 
 &nbsp; ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ManupaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManupaDev&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManupaDev&theme=buefy&layout=compact" />
 </a>
