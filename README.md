@@ -5,10 +5,11 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University Of Westminster UK.
 - 💼 &nbsp; Working as a freelance web developer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, NexJS & React.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Testing & Working in an industrial team.
 - ✍️ &nbsp; Pursuing Music and Youtube as hobbies/side hustles.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
+<br/>
 <h3> 💻 &nbsp;Front End</h3>
 <br/>
 
