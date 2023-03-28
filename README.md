@@ -92,7 +92,7 @@
 
 <a href="https://github.com/ManupaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManupaDev&theme=buefy&show_icons=true" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManupaDev&theme=tokyonight" alt="mystreak"/>
 </a>
 
 <br/>
