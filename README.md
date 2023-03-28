@@ -92,7 +92,7 @@
 
 <a href="https://github.com/ManupaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManupaDev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManupaDev&theme=buefy&layout=compact" />
+  
 </a>
 
 <br/>
